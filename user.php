@@ -110,7 +110,7 @@
           </div>
         </div>
       </div>
-  <!-- Akhir Footer -->
+  <!-- Akhir Footerrrr -->
 
 
     <!-- Optional JavaScript -->
