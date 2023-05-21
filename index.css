@@ -9,7 +9,7 @@ body {
 
 /*Jumbotron*/
 .jumbotron {
-	background-image: url(images/background/bg8.jpg);
+	background-image: url(upload/bg.jpg);
 	background-size: cover;
 	height: 350px;
 	width: 100%;
@@ -20,8 +20,13 @@ body {
 	margin-top: 30px;
 }
 
-.jumbotron p {
-	font-size: 23px;
+
+.jumbotron .lead {
+	font-size: 25px;
+}
+
+.jumbotron .font-weight {
+	font-size: 18px;
 }
 
 .jumbotron hr {
