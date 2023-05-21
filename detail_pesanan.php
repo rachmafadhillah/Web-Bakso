@@ -29,8 +29,8 @@
         <div class="container">
           <h1 class="display-4"><span class="font-weight-bold">BAKSO SOLO BARU</span></h1>
           <hr>
-          <p class="lead font-weight-bold">Silahkan Pesan Menu Sesuai Keinginan Anda <br> 
-          Enjoy Your Meal</p>
+          <p class="lead font-weight-bold">"Mie Baso dan Batagor"</p>
+          <p class="font-weight"> <br><br>-- Cabang Papanggungan --</p>
         </div>
       </div>
   <!-- Akhir Jumbotron -->
@@ -134,16 +134,19 @@
         <div class="row footer-body">
           <div class="col-md-6">
           <div class="copyright">
-            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2020 -  Designed by Alfirdaus&Rinaldo</p>
+            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2023 -  Designed by Study Buddies</p>
           </div>
           </div>
 
           <div class="col-md-6 d-flex justify-content-end">
           <div class="icon-contact">
-          <label class="font-weight-bold">Follow Us </label>
-          <a href="#"><img src="images/icon/fb.png" class="mr-3 ml-4" data-toggle="tooltip" title="Facebook"></a>
-          <a href="#"><img src="images/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
-          <a href="#"><img src="images/icon/twitter.png" class="" data-toggle="tooltip" title="Twitter"></a>
+          <label class="font-weight-bold">Follow Us : </label>
+          <a>sendi</a>
+          <a href="https://www.instagram.com/seenndy_/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
+          <a>rachma</a>
+          <a href="https://www.instagram.com/rachmafllh_/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
+          <a>kevin</a>
+          <a href="https://www.instagram.com/kevinn.sd/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
         </div>
           </div>
         </div>
