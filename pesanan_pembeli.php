@@ -79,8 +79,8 @@ if(empty($_SESSION["pesanan"]) OR !isset($_SESSION["pesanan"]))
         
       </div>
       <table class="table table-bordered" id="example">
-        <thead class="thead-light">
-          <tr class="table-primary">
+        <thead class="thead-warning">
+          <tr class="table-warning">
             <th scope="col">No</th>
             <th scope="col">Nama Pesanan</th>
             <th scope="col">Harga</th>
