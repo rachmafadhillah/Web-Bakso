@@ -25,9 +25,12 @@
   <!-- Jumbotron -->
       <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
-          <h1 class="display-4"><span class="font-weight-bold">BAKSO ABRAG</span></h1>
+          <h1 class="display-4">
+          <!-- <img src="upload/bg.jpg">   -->
+          <span class="font-weight-bold">BAKSO ABRAG</span></h1>
           <hr>
-          <p class="lead font-weight-bold"><br> </p>
+          <p class="lead font-weight-bold">"Mie Baso dan Batagor"</p>
+          <p class="font-weight"> <br><br>-- Cabang Papanggungan --</p>
         </div>
       </div>
   <!-- Akhir Jumbotron -->
@@ -64,7 +67,7 @@
       <div class="container">
         <div class="judul text-center mt-5">
           <h3 class="font-weight-bold">BAKSO ABRAG</h3>
-          <h5>Jl. Papanggungan, No.40
+          <h5>Jl. Papanggungan No.40, Kota Bandung
           <br>Buka Jam <strong>10:00 - 21:00</strong></h5>
         </div>
 
@@ -80,7 +83,7 @@
 
           <div class="col-md-6 d-flex justify-content-start">
             <div class="card bg-dark text-white border-light">
-              <img src="images/background/pesan.jpg" class="card-img" alt="Lihat Pesanan">
+              <img src="upload/pesan.jpg" class="card-img" alt="Lihat Pesanan">
               <div class="card-img-overlay mt-5 text-center">
                <a href="pesanan_pembeli.php" class="btn btn-primary">LIHAT PESANAN</a>
               </div>
@@ -96,7 +99,7 @@
         <div class="row footer-body">
           <div class="col-md-6">
           <div class="copyright">
-            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2021 -  Designed by Sendy,Rachma,Kevin</p>
+            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2021 -  Designed by Sendy-Rachma-Kevin</p>
           </div>
           </div>
 
@@ -110,7 +113,7 @@
           </div>
         </div>
       </div>
-  <!-- Akhir Footerrrr -->
+  <!-- Akhir Footer -->
 
 
     <!-- Optional JavaScript -->
