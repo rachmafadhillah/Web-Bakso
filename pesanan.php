@@ -72,8 +72,8 @@
         
       </div>
       <table class="table table-bordered" id="example">
-        <thead class="thead-light">
-          <tr>
+        <thead class="thead-warning">
+          <tr class="table-warning">
             <th scope="col">No.</th>
             <th scope="col">ID Pemesanan</th>
             <th scope="col">Tanggal Pesan</th>
