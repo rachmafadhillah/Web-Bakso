@@ -26,7 +26,6 @@
       <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
           <h1 class="display-4">
-          <!-- <img src="upload/bg.jpg">   -->
           <span class="font-weight-bold">BAKSO ABRAG</span></h1>
           <hr>
           <p class="lead font-weight-bold">"Mie Baso dan Batagor"</p>
@@ -74,7 +73,7 @@
         <div class="row mb-5 mt-5 ">
           <div class="col-md-6 d-flex justify-content-end">
             <div class="card bg-dark text-white border-light">
-              <img src="images/background/bakso.jpg" class="card-img" alt="Lihat Daftar Menu">
+              <img src="upload/background/daftar.png" class="card-img" alt="Lihat Daftar Menu">
               <div class="card-img-overlay mt-5 text-center">
                <a href="menu_pembeli.php" class="btn btn-primary">LIHAT DAFTAR MENU</a>
               </div>
@@ -83,7 +82,7 @@
 
           <div class="col-md-6 d-flex justify-content-start">
             <div class="card bg-dark text-white border-light">
-              <img src="upload/pesan.jpg" class="card-img" alt="Lihat Pesanan">
+              <img src="upload/background/pesan.png" class="card-img" alt="Lihat Pesanan">
               <div class="card-img-overlay mt-5 text-center">
                <a href="pesanan_pembeli.php" class="btn btn-primary">LIHAT PESANAN</a>
               </div>
@@ -99,16 +98,19 @@
         <div class="row footer-body">
           <div class="col-md-6">
           <div class="copyright">
-            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2021 -  Designed by Sendy-Rachma-Kevin</p>
+            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2023 -  Designed by Study Buddies</p>
           </div>
           </div>
 
           <div class="col-md-6 d-flex justify-content-end">
           <div class="icon-contact">
-          <label class="font-weight-bold">Follow Us </label>
-          <a href="#"><img src="images/icon/fb.png" class="mr-3 ml-4" data-toggle="tooltip" title="Facebook"></a>
-          <a href="#"><img src="images/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
-          <a href="#"><img src="images/icon/twitter.png" class="" data-toggle="tooltip" title="Twitter"></a>
+          <label class="font-weight-bold">Follow Us : </label>
+          <a>sendi</a>
+          <a href="https://www.instagram.com/seenndy_/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
+          <a>rachma</a>
+          <a href="https://www.instagram.com/rachmafllh_/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
+          <a>kevin</a>
+          <a href="https://www.instagram.com/kevinn.sd/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
         </div>
           </div>
         </div>
