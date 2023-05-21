@@ -3,7 +3,7 @@ include 'koneksi.php';
 ?>
 
 <!doctype html>
-<html lang="en">
+<html lang="en" >
   <head>
 
     <!-- Required meta tags -->
@@ -19,17 +19,18 @@ include 'koneksi.php';
 
     <title>Login Bakso Abrag</title>
   </head>
-  <body>
+  <body style="background: linear-gradient(to right, #AD8763, #EFCEBD);">
   <!-- Form Login -->
-    <div class="container">
-      <h4 class="text-center">LOGIN BAKSO ABRAG</h4>
+    <div class="container" style="background-color:#EBDED7;">
+      <h3 class="text-center">LOGIN BAKSO ABRAG</h3>
       <hr>
       <form method="POST" action="">
         <div class="form-group">
           <label for="exampleInputEmail1">Username</label>
             <div class="input-group">
               <div class="input-group-prepend">
-                <div class="input-group-text"><i class="fas fa-user"></i></div>
+                <div class="input-group-text">
+                  <i class="fas fa-user"></i></div>
               </div>
               <input type="text" class="form-control" placeholder="Masukkan Username" name="username">
             </div>
@@ -44,7 +45,9 @@ include 'koneksi.php';
           </div>
         </div>
         <div class="mb-3" >
-          <small><a href="register.php" class="text-dark">Belum Punya Akun ? Buat Akun Anda !</a></small>
+          <small><a class="text-dark">Belum Punya Akun ? </a>
+            <a href="register.php" class="text-primary"><u><b>Buat Akun Anda!</b></u></a>
+          </small>
         </div>
         <button type="submit" name="submit" class="btn btn-primary">LOGIN</button>
         <button type="reset" name="reset" class="btn btn-danger">RESET</button>
