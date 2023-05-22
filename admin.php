@@ -97,7 +97,7 @@
         <div class="row footer-body">
           <div class="col-md-6">
           <div class="copyright">
-            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2023 -  Designed by Study Buddies</p>
+            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2023 -  Designed by Kevin, Rachma, Sendy</p>
           </div>
           </div>
 
