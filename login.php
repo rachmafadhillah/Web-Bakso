@@ -46,7 +46,7 @@ include 'koneksi.php';
         </div>
         <div class="mb-3" >
           <small><a class="text-dark">Belum Punya Akun ? </a>
-            <a href="register.php" class="text-primary"><u><b>Buat Akun Anda!</b></u></a>
+            <a href="register.php" class="text-primary"><u><b>Buat Akun Anda !</b></u></a>
           </small>
         </div>
         <button type="submit" name="submit" class="btn btn-primary">LOGIN</button>
