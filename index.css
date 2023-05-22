@@ -9,7 +9,7 @@ body {
 
 /*Jumbotron*/
 .jumbotron {
-	background-image: url(upload/bg.jpg);
+	background-image: url(upload/background/bg.jpg);
 	background-size: cover;
 	height: 350px;
 	width: 100%;
