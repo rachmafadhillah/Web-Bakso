@@ -104,11 +104,11 @@
           <div class="col-md-6 d-flex justify-content-end">
           <div class="icon-contact">
           <label class="font-weight-bold">Follow Us : </label>
-          <a>sendi</a>
+          <a>seenndy_</a>
           <a href="https://www.instagram.com/seenndy_/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
-          <a>rachma</a>
+          <a>rachmafllh_</a>
           <a href="https://www.instagram.com/rachmafllh_/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
-          <a>kevin</a>
+          <a>kevinn.sd</a>
           <a href="https://www.instagram.com/kevinn.sd/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
         </div>
           </div>
