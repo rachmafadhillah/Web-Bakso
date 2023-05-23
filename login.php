@@ -17,7 +17,7 @@ include 'koneksi.php';
     <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> -->
 
 
-    <title>Login Bakso Abrag</title>
+    <title>Login Bakso ABRAG</title>
   </head>
   <body style="background: linear-gradient(to right, #AD8763, #EFCEBD);">
   <!-- Form Login -->
@@ -26,7 +26,7 @@ include 'koneksi.php';
       <hr>
       <form method="POST" action="">
         <div class="form-group">
-          <label for="exampleInputEmail1">Username</label>
+          <label for="exampleInputEmail1">Nama Pengguna</label>
             <div class="input-group">
               <div class="input-group-prepend">
                 <div class="input-group-text">
@@ -36,7 +36,7 @@ include 'koneksi.php';
             </div>
         </div>
         <div class="form-group">
-          <label for="exampleInputPassword1">Password</label>
+          <label for="exampleInputPassword1">Kata Sandi</label>
             <div class="input-group">
               <div class="input-group-prepend">
                 <div class="input-group-text"><i class="fas fa-unlock-alt"></i></div>
