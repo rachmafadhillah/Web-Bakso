@@ -16,6 +16,7 @@ $edit = mysqli_query($koneksi, "UPDATE produk SET nama_menu='$nama_menu', jenis_
 if($edit)
 	header('location: daftar_menu.php');
 else
+	//menambahkan komen ketika gagal
 	echo "Edit Menu Gagal";
 
 
