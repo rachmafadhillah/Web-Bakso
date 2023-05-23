@@ -18,7 +18,7 @@
     <link rel="stylesheet" type="text/css" href="index.css">
     <link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
 
-    <title>Bakso Abrag</title>
+    <title>BAKSO ABRAG</title>
   </head>
   <body>
 
