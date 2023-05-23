@@ -42,7 +42,7 @@ include 'koneksi.php';
           </div>
          </div>
         <div class="form-group">
-          <label for="stok1">Stok</label>
+          <label for="stok1">Stok Menu</label>
           <input type="text" class="form-control" id="stok1" name="stok">
         </div>
         <div class="form-group">
