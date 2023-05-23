@@ -39,7 +39,7 @@
   <!-- Navbar -->
       <nav class="navbar navbar-expand-lg  bg-dark">
         <div class="container">
-        <a class="navbar-brand text-white" href="admin.php"><strong>Bakso</strong> Abrag</a>
+        <a class="navbar-brand text-white" href="admin.php"><strong>Bakso</strong> ABRAG</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -96,7 +96,7 @@
             <td>Rp. <?php echo number_format($result["total_belanja"]); ?></td>
             <td>
               
-              <a href="detail_pesanan.php?id=<?php echo $result['id_pemesanan'] ?>" class="badge badge-primary">Detail</a>
+              <a href="detail_pesanan.php?id=<?php echo $result['id_pemesanan'] ?>" class="badge badge-primary">Detail Pesanan</a>
              
 
               <a href="clear_pesanan.php?id=<?php echo $result['id_pemesanan'] ?>" class="badge badge-danger">Hapus Data</a>
@@ -123,11 +123,11 @@
           <div class="col-md-6 d-flex justify-content-end">
           <div class="icon-contact">
           <label class="font-weight-bold">Follow Us : </label>
-          <a>sendi</a>
+          <a>seenndy_</a>
           <a href="https://www.instagram.com/seenndy_/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
-          <a>rachma</a>
+          <a>rachmafllh_</a>
           <a href="https://www.instagram.com/rachmafllh_/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
-          <a>kevin</a>
+          <a>kevinn.sd</a>
           <a href="https://www.instagram.com/kevinn.sd/"><img src="upload/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
         </div>
           </div>
