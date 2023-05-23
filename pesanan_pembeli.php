@@ -28,7 +28,7 @@ if(empty($_SESSION["pesanan"]) OR !isset($_SESSION["pesanan"]))
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
 
-    <title>Bakso Abrag</title>
+    <title>BAKSO ABRAG</title>
   </head>
   <body>
   <!-- Jumbotron -->
