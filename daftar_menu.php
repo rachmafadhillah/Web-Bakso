@@ -52,6 +52,9 @@
               <a class="nav-link mr-4" href="pesanan.php">PESANAN</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link mr-4" href="admin.php">ADMIN</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link mr-4" href="logout.php">LOGOUT</a>
             </li>
           </ul>
