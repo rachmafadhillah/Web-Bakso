@@ -29,7 +29,7 @@
         <div class="container">
           <h1 class="display-4"><span class="font-weight-bold">BAKSO SOLO BARU</span></h1>
           <hr>
-          <p class="lead font-weight-bold">"Mie Baso dan Batagor"</p>
+          <p class="lead font-weight-bold">"Mie Bakso dan Batagor"</p>
           <p class="font-weight"> <br><br>-- Cabang Papanggungan --</p>
         </div>
       </div>
